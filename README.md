@@ -9,5 +9,4 @@
 10
 8.1
 8
-7
 others are not supported :D
