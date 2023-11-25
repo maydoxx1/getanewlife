@@ -1,3 +1,4 @@
+# Get a New Life RE OPEN!
 # Viruss
 # All Viruss Created in vbs soon will be c++ or c
 # WARNING ALL VIRUSS WILL GET YOU BSOD AND CANT RECOVER ABLE BACK UP YOUR FILES OR USE VIRTUAL MACHINE....
