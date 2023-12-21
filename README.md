@@ -11,3 +11,5 @@
 8.1
 8
 others are not supported :D
+# well this virus will downed its bc this
+https://imgur.com/gallery/9sdhOwK
