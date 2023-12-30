@@ -11,5 +11,5 @@
 8.1
 8
 others are not supported :D
-# well this virus will downed its bc this
-https://imgur.com/gallery/9sdhOwK
+# This Virus Will be no longer works its caused by this
+https://github.com/maydoxx1/getanewlife/issues
