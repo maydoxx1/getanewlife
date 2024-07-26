@@ -1,8 +1,8 @@
 # Get a New Life RE OPEN!
-# Viruss
-# All Viruss Created in vbs soon will be c++ or c
-# WARNING ALL VIRUSS WILL GET YOU BSOD AND CANT RECOVER ABLE BACK UP YOUR FILES OR USE VIRTUAL MACHINE....
-# THE OWNER NO RESPONS OF ANY DAMAGES ON YOUR WINDOWS.
+# Viruses
+# This Virus wrote in c++ and it can be executeable check line 8
+# WARNING ALL VIRUSES WILL GET YOU ENCYRPTED AND IT CANT RECOVERABLE BACK UP YOUR FILES OR USE VIRTUAL MACHINE....
+# THE OWNER NOT RESPONSIBLE OF ANY DAMAGES ON YOUR WINDOWS.
 # the password is maydoisbest
 :)
 # Windows That supported 
@@ -10,6 +10,6 @@
 10
 8.1
 8
-others are not supported :D
-# This Virus Will be no longer works its caused by this
-https://github.com/maydoxx1/getanewlife/issues
+7
+xp
+# It's currently on beta report the error on issues!
