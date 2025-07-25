@@ -1,7 +1,6 @@
 # Get a New Life RE OPEN!
 
-This virus was written in C++.  
-You can verify by checking line 8 in the source code.
+This virus was written and built in C++. 
 
 ---
 
