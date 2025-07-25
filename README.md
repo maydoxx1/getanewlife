@@ -1,9 +1,47 @@
 # Get a New Life RE OPEN!
-This Virus was written in C++ and it can be executeable check line 8
-# WARNING THIS VIRUS CAN DESTROY ANY DATA THAT'S ON YOUR HARD DRIVE AND WILL REMOVE THE BOOT PARTITION PLEASE BE AWARE, AND IT CANT RECOVERABLE BACK UP YOUR FILES OR USE VIRTUAL MACHINE!!!
-# THE OWNER NOT RESPONSIBLE OF ANY DAMAGES ON YOUR COMPUTER.
-# the password is maydoisbest
+
+This virus was written in C++.  
+You can verify by checking line 8 in the source code.
+
+---
+
+## ⚠️ WARNING:
+
+**This virus WILL destroy any data on your hard drive**  
+and **will remove your boot partition.**  
+
+**This damage is irreversible.**  
+
+**BACK UP YOUR FILES** or **RUN THIS ONLY IN A VIRTUAL MACHINE!**
+
+---
+
+## DISCLAIMER
+
+The author **is NOT responsible** for any damage caused to your computer.  
+Use at your own risk.
+
+---
+
+## Supported Windows Versions
+
+- Windows Vista  
+- Windows 7  
+- Windows 8  
+- Windows 10  
+- Windows 11  
+
+---
+
+## Current Status
+
+This project is currently in **beta**.  
+Please report any errors or issues.
+
+---
+
+## Password to unlock virus (if applicable)
+
+`maydoisbest`  
+
 :)
-# Windows Versions That are supported 
-Windows 11 & 10 & 8 & 7 & Vista!
-# It's currently on beta report the error on issues!
