@@ -9,6 +9,7 @@ You can verify by checking line 8 in the source code.
 
 **This virus WILL destroy any data on your hard drive**  
 and **will remove your boot partition.**  
+Yes, it will ***WIPE YOUR DISK TABLE***.
 
 **This damage is irreversible.**  
 
